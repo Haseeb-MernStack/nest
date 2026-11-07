@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@nestjs/common": "11.1.13",
-    "@nestjs/core": "11.1.13",
+    "@nestjs/core": "11.1.18",
     "@nestjs/platform-express": "11.1.13",
     "@nestjs/platform-ws": "11.1.13",
     "@nestjs/websockets": "11.1.13",
@@ -29,7 +29,7 @@
     "rimraf": "6.1.2",
     "reflect-metadata": "0.2.2",
     "rxjs": "7.8.2",
-    "ws": "8.18.0"
+    "ws": "8.21.0"
   },
   "devDependencies": {
     "@types/ws": "8.5.13",
